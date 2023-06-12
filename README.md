@@ -8,7 +8,7 @@ To use Java-Medical-microdata-Scrapper, follow these steps:
 
 1. Clone the repository to your local machine:
 
-git clone https://github.com/fkitsantas/Java-Medical-microdata-Scrapper.git
+  `git clone https://github.com/fkitsantas/Java-Medical-microdata-Scrapper.git`
 
 2. Import the project into your preferred Java IDE.
 
@@ -33,23 +33,3 @@ Java-Medical-microdata-Scrapper tool requires the following dependencies:
 - XML API
 
 These dependencies are included in the standard Java Development Kit (JDK) libraries, so there's no need to install any additional packages.
-
-## Contributing
-
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request. Your feedback is valuable and will help enhance the functionality and reliability of this tool.
-
-## License
-
-This project is licensed under the MIT License. You can find the license information in the [LICENSE](LICENSE) file.
-
-## Acknowledgments
-
-This project is developed based on the work of [Your Name]. Special thanks to [mention any contributors or resources you used] for their valuable contributions and inspiration.
-
-## Contact
-
-For any inquiries or questions regarding the Java-Medical-microdata-Scrapper tool, please contact [your email address].
-
-Feel free to visit my portfolio to see more of my projects: [link to your portfolio]
-
-Thank you for your interest in Java-Medical-microdata-Scrapper!
