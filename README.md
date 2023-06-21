@@ -1,10 +1,10 @@
-# Java-Medical-microdata-Scrapper
+# Java-Medical-microdata-Scraper
 
-Java-Medical-microdata-Scrapper is a Java web scraping tool specifically designed for extracting medical micro data from web pages. This tool allows you to scrape information such as company name, drug name, drug class, indications, dosage form, side effects, and warnings from target URLs. The extracted data can be printed to the console and saved in an XML format for further analysis or storage.
+Java-Medical-microdata-Scrapper is a Java web scraping tool specifically designed for extracting medical microdata from web pages. This tool allows you to scrape information such as company name, drug name, drug class, indications, dosage form, side effects, and warnings from target URLs. The extracted data can be printed to the console and saved in an XML format for further analysis or storage.
 
 ## Installation
 
-To use Java-Medical-microdata-Scrapper, follow these steps:
+To use Java-Medical-microdata-Scraper, follow these steps:
 
 1. Clone the repository to your local machine:
 
@@ -18,7 +18,7 @@ To use Java-Medical-microdata-Scrapper, follow these steps:
 
 ## Usage
 
-The scraper is designed to extract medical micro data from specific web pages. By default, it is set to scrape data from the URL `http://linter.structured-data.org/examples/schema.org/Drug-TreatmentIndication-MedicalContraindication-273-rdfa.html`. You can modify the URL in the code to scrape data from your desired source.
+The scraper is designed to extract medical microdata from specific web pages. By default, it is set to scrape data from the URL `http://linter.structured-data.org/examples/schema.org/Drug-TreatmentIndication-MedicalContraindication-273-rdfa.html`. You can modify the URL in the code to scrape data from your desired source.
 
 The extracted data will be printed to the console, displaying drug information including drug name, company name, drug class, indications, dosage form, side effects, and warnings.
 
